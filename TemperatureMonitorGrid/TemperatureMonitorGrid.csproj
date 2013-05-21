@@ -106,7 +106,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="DataRetrival.cs" />
+    <Compile Include="DataModel\DataRetrival.cs" />
     <Compile Include="GroupedItemsPage.xaml.cs">
       <DependentUpon>GroupedItemsPage.xaml</DependentUpon>
     </Compile>

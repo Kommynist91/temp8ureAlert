@@ -40,7 +40,7 @@ using Windows.Storage;
 // Applications may use this model as a starting point and build on it, or discard it entirely and
 // replace it with something appropriate to their needs.
 
-namespace TemperatureMonitorGrid
+namespace TemperatureMonitorGrid.Data
 {
     /// <summary>
     /// Base class for <see cref="TemperatureDataItem"/> and <see cref="TemperatureDataGroup"/> that
